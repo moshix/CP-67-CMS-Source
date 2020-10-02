@@ -16,6 +16,9 @@ a modern z/VM system, and then printed to ASCI files... with love.
 As of today (October 2020) there are some ^L control chars here and there which need to be cleaned up, 
 but the code is all there in its' beauty for posterity. I will take care of that in a second step. 
 
+the CMSMacros.txt file contains all the macros needed for the assembler to assemble the source. 
+The other file contains the source code listings after a clean assembly. 
+
 thanks
 
 Moshix
