@@ -11,16 +11,15 @@ usable on today's z/VM (which is the grand-grand-grandchild of CP/67). So I read
 VM/370 which is still close enough to CP/67 to be able to read the tape format.
 
 From there, it was written to .aws format with the VMFPLC2 tape format. Then, moved to 
-a modern z/VM system, and then printed to ASCI files... with love. 
-
-As of today (October 2020) there are some ^L control chars here and there which need to be cleaned up, 
-but the code is all there in its' beauty for posterity. I will take care of that in a second step. 
+a modern z/VM system, worked on the files a bit, then moved them back to VM/370, and then
+printed to ASCI files... with love. 
+ 
 
 There are 3 files in this repo: 
 
 1. the CMSMacros.txt file contains all the macros needed for the assembler to assemble the source. 
 2. The CMSSource.txt file contains the assembler source to be fed into the assembler (together with macros).
-3. The other file contains the source code listings after a clean assembly. 
+3. The CMSAssemblyListings.txt file contains the source code listings after a clean assembly. 
 
 thanks
 
