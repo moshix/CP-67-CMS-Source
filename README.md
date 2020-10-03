@@ -14,7 +14,7 @@ From there, it was written to .aws format with the VMFPLC2 tape format. Then, mo
 a modern z/VM system, worked on the files a bit, then moved them back to VM/370, and then
 printed to ASCI files... with love. 
  
-I received generous help from Bob Polmanter and Nealge Ferguson to make this happen. Thank you!
+I received generous help from Bob Polmanter and Neale Ferguson to make this happen. Thank you!
 
 There are 3 files in this repo: 
 
