@@ -7,7 +7,7 @@ The source is in assembly listing format as produced by the S/360 assembler for 
 
 This source code was recovered from tape reels found in a dumpster (literally!) and then
 converted to digital .aws format. The format is in very told VM TAPE format not directly
-usable on today's z/VM (which is the grand-grand-grandchild of CP/67). So I read into
+usable on today's z/VM (which is the grand-grand-grandchild of CP/67). So I read the tapes into
 VM/370 which is still close enough to CP/67 to be able to read the tape format.
 
 From there, it was written to .aws format with the VMFPLC2 tape format. Then, moved to 
