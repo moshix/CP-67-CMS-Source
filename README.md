@@ -26,4 +26,5 @@ There are 3 files in this repo:
 thanks
 
 Moshix
+Scopello Edition
 
