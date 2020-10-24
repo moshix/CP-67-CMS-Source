@@ -1,7 +1,7 @@
 CP/67 CMS Source Code
 =====================
 
-This is the original source code for the IBM CP/67 CMS operating system from 1973. 
+This is the original source code for the IBM CP/67 CMS operating system from 1969.. 
 
 The source is in assembly listing format as produced by the S/360 assembler for CP/67. 
 
@@ -20,7 +20,7 @@ I received generous help from Bob Polmanter and Neale Ferguson to make this happ
 There are 3 files in this repo: 
 
 1. the CMSMacros.txt file contains all the macros needed for the assembler to assemble the source. 
-2. The CMSSource.txt file contains the assembler source to be fed into the assembler (together with macros).
+2. The CMSSource.txt file contains the assembler source to be fed into the assembler (together with macros), in 1973
 3. The CMSAssemblyListings.txt file contains the source code listings after a clean assembly. 
 
 thanks
