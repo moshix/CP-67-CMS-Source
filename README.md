@@ -25,6 +25,6 @@ There are 3 files in this repo:
 
 thanks
 
-Moshix
-Scopello Edition
+Moshix<br>
+October 2, 2020
 
