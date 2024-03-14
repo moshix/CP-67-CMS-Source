@@ -17,8 +17,8 @@ VM/370 which is still close enough to CP/67 to be able to read the tape format.
 
 From there, it was written to .aws format with the VMFPLC2 tape format. Then, moved to 
 a modern z/VM system, worked on the files a bit, then moved them back to VM/370, and then
-printed to ASCI files... with love. Two of the files on the tapes had permanent read errors, so
-some content may be lost. 
+printed to ASCI files. From there it went to 1403.bitnet.systems for artcrafty print on IBM 1403 printer... with love. Two of the files on the tapes had permanent read errors, so
+some content is likely lost. 
  
 I received generous help from Bob Polmanter and Neale Ferguson to make this happen. Thank you!
 
