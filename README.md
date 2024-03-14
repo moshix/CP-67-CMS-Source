@@ -22,14 +22,15 @@ some content may be lost.
  
 I received generous help from Bob Polmanter and Neale Ferguson to make this happen. Thank you!
 
-There are 3 files in this repo: 
+There are 4 files in this repo: 
 
 1. the CMSMacros.txt file contains all the macros needed for the assembler to assemble the source. 
 2. The CMSSource.txt file contains the assembler source to be fed into the assembler (together with macros), in 1973
-3. The CMSAssemblyListings.txt file contains the source code listings after a clean assembly. 
+3. The CMSAssemblyListings.txt file contains the source code listings after a clean assembly.
+4. The CMS_Assembly_Listing_1403.pdf file is the beautifully printed listing on IBM 1403, thanks to https://1403.bitnet.systems/
 
 thanks
 
 Moshix<br>
-October, 2023  
+March, 2024   
 
