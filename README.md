@@ -32,5 +32,5 @@ There are 4 files in this repo:
 thanks
 
 Moshix<br>
-July, 2024, Scopello    
+July 2024, Scopello    
 
