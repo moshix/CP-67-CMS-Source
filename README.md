@@ -29,5 +29,5 @@ There are5 files in this repo:
 thanks
 
 Moshix<br>
-May 2026, Norkoping   
+June 2026, Barolo   
 
